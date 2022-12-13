@@ -1,6 +1,6 @@
 # R code for Medicare disparity diabetes data
 
-Code for a diabetes analysis project.  [link to project]
+Code for a [diabetes analysis project](https://staroscik.com/portfolioitem_dabsum.html). 
 
 # About
 
